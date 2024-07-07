@@ -1,3 +1,3 @@
 export default function Logo() {
-  return <h1>Far Awaay</h1>;
+  return <h1>🧳 Far Away  જ⁀➴</h1>;
 }
